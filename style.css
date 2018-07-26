@@ -1,0 +1,44 @@
+		body{
+			margin: 0px;
+		}
+
+		.container{
+			margin: auto;
+			max-width: 900px;
+		}
+
+		header{
+			background-color: #000;
+			color: #fff;
+			padding-top: 20px;
+			padding-bottom: 20px;
+			height: 200px;
+			background-image: url(img/imagem1.jpeg);
+			line-height: px;
+			text-align: center;
+			font-size: 2.5em;
+		}
+
+		.menu-menu-container ul{
+			margin: 0px;
+			padding: 0px;
+			list-style: none;
+		}
+
+		.menu-menu-container ul li{
+			display: inline-block;
+			padding: 20px;
+		}
+
+		.menu-menu-container ul li:hover{
+			background-color: #bbb;
+		}
+
+		.menu-menu-container ul li a{
+			text-decoration: none;
+			color: #000;
+		}
+
+		.menu-menu-container{
+			border-bottom: 1px solid #999;
+		}
