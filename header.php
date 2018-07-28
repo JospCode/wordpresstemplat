@@ -5,8 +5,9 @@
 	<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/style.css">
 </head>
 <body>
-
-	<img width="70" height="70"  src="<?php bloginfo('template_url'); ?>/img/imagem2.png" />
+	<div class="logo">
+		<img width="45" height="45"  src="<?php bloginfo('template_url'); ?>/img/imagem2.png" />
+	</div>
 
 	<header>
 		<div class="container">

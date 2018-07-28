@@ -10,7 +10,7 @@ if (function_exists('register_sidebar')){
 	));
 }
 
-if (function_exists(function_name)_exists('register_sidebar')){
+if (function_exists('register_sidebar')){
 	register_sidebar(array(
 		'name'			=> 	'MyWidget2',
 		'before_widget'			=> 	'<div class="widget">',
